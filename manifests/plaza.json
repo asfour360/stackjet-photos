@@ -1,0 +1,2628 @@
+[
+  {
+    "airport": "NBO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge Nairobi (International Departures, Terminal 1C)",
+    "photos": [
+      "plaza/nbo/plaza-premium-lounge-nairobi-international-departures-terminal-1c-1.jpg",
+      "plaza/nbo/plaza-premium-lounge-nairobi-international-departures-terminal-1c-2.jpg",
+      "plaza/nbo/plaza-premium-lounge-nairobi-international-departures-terminal-1c-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NBO-03_1600x800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NBO-04_1600x800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NBO-05_1600x800.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DAR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "ADD",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/add/plaza-premium-lounge-international-departures-terminal-2-1.jpg",
+      "plaza/add/plaza-premium-lounge-international-departures-terminal-2-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_ADD_1_property_1324.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ADD_gallery_1600_800.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "AMM",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures)",
+    "photos": [
+      "plaza/amm/plaza-premium-lounge-departures-1.jpg",
+      "plaza/amm/plaza-premium-lounge-departures-2.jpg",
+      "plaza/amm/plaza-premium-lounge-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Amman_thumb_property_998.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Amman_1_property_998.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Amman_2_property_998.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MCT",
+    "provider": "Plaza Premium",
+    "name": "Majan Lounge",
+    "photos": [
+      "plaza/mct/majan-lounge-1.jpg",
+      "plaza/mct/majan-lounge-2.jpg",
+      "plaza/mct/majan-lounge-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mct_gallery1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mct_gallery2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mct_gallery3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DMM",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/dmm/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/dmm/plaza-premium-lounge-international-departures-2.jpg",
+      "plaza/dmm/plaza-premium-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DMM_Main Entrace PPL_property_922.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DMM_PPL Main Reception_property_922.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DMM _ Coffee Bar_property_922.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JED",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/jed/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/jed/plaza-premium-lounge-international-departures-2.jpg",
+      "plaza/jed/plaza-premium-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_JED_Int_Dep_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_JED_Int_Dep_3.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_JED_Int_Dep_4.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JED",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Arrivals) — Coming Soon",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "RUH",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/ruh/plaza-premium-lounge-international-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/RUH_T1_1600x800_v3.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JNB",
+    "provider": "Plaza Premium",
+    "name": "Shongololo Premium Lounge",
+    "photos": [
+      "plaza/jnb/shongololo-premium-lounge-1.jpg",
+      "plaza/jnb/shongololo-premium-lounge-2.jpg",
+      "plaza/jnb/shongololo-premium-lounge-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Shongololo_Loungeimage_1400px-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Shongololo_Loungeimage_1400px-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Shongololo-Lounge-image_1400px-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JNB",
+    "provider": "Plaza Premium",
+    "name": "Mashonzha Lounge",
+    "photos": [
+      "plaza/jnb/mashonzha-lounge-1.jpg",
+      "plaza/jnb/mashonzha-lounge-2.jpg",
+      "plaza/jnb/mashonzha-lounge-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mashonzha_Loungeimage_1400px-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mashonzha_Loungeimage_1400px-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mashonzha_Loungeimage_1400px-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DUR",
+    "provider": "Plaza Premium",
+    "name": "Umphafa Lounge",
+    "photos": [
+      "plaza/dur/umphafa-lounge-1.jpg",
+      "plaza/dur/umphafa-lounge-2.jpg",
+      "plaza/dur/umphafa-lounge-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Umphafa_Loungeimage_1400px-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Umphafa_Loungeimage_1400px-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Umphafa_Loungeimage_1400px-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DXB",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 3)",
+    "photos": [
+      "plaza/dxb/plaza-premium-lounge-international-departures-terminal-3-1.jpg",
+      "plaza/dxb/plaza-premium-lounge-international-departures-terminal-3-2.jpg",
+      "plaza/dxb/plaza-premium-lounge-international-departures-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DXB-lounge-2020-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DXB-lounge-2020-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/DXB-lounge-2020-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HRE",
+    "provider": "Plaza Premium",
+    "name": "The Lounge (International Departures)",
+    "photos": [
+      "plaza/hre/the-lounge-international-departures-1.jpg",
+      "plaza/hre/the-lounge-international-departures-2.jpg",
+      "plaza/hre/the-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/HRE_gallery-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/HRE_gallery_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/HRE_gallery-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAI",
+    "provider": "Plaza Premium",
+    "name": "CAC Lounge by Plaza Premium Lounge & EAS (International Departure, Terminal 1)",
+    "photos": [
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-1-1.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-1-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T1_Thumb_property_925.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T1_1_property_925.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAI",
+    "provider": "Plaza Premium",
+    "name": "CAC Lounge by Plaza Premium Lounge & EAS (International Departure, Terminal 2)",
+    "photos": [
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-2-1.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-2-2.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T2_thumb_property_926.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T2_1_property_926.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T2_2_property_926.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAI",
+    "provider": "Plaza Premium",
+    "name": "CAC Lounge by Plaza Premium Lounge & EAS (International Departure, Terminal 3E)",
+    "photos": [
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3e-1.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3e-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T3_Thumb_property_927.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Cairo_T3_2_property_927.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAI",
+    "provider": "Plaza Premium",
+    "name": "CAC Lounge by Plaza Premium Lounge & EAS (International Departure, Terminal 3S)",
+    "photos": [
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3s-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CAC-T3-S-top-1903-x-500_property_928.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAI",
+    "provider": "Plaza Premium",
+    "name": "CAC Lounge by Plaza Premium Lounge & EAS (International Departure, Terminal 3F)",
+    "photos": [
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3f-1.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3f-2.jpg",
+      "plaza/cai/cac-lounge-by-plaza-premium-lounge-eas-international-departure-terminal-3f-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CAI_T3_F_1_property_1413.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CAI_T3_F_2_property_1413.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CAI_T3_F_3_property_1413.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Plaza Premium",
+    "name": "Air India Lounge (International Departure, Terminal 4)",
+    "photos": [
+      "plaza/jfk/air-india-lounge-international-departure-terminal-4-1.jpg",
+      "plaza/jfk/air-india-lounge-international-departure-terminal-4-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Air_India_Lounge_1_property_1385.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Air_India_Lounge_2_property_1385.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Terminal E)",
+    "photos": [
+      "plaza/dfw/plaza-premium-lounge-domestic-departures-terminal-e-1.jpg",
+      "plaza/dfw/plaza-premium-lounge-domestic-departures-terminal-e-2.jpg",
+      "plaza/dfw/plaza-premium-lounge-domestic-departures-terminal-e-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/dfw_property_photo1_1400x1050.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/dfw_property_photo2_1400x1050.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/dfw_property_photo3_1400x1050.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal D)",
+    "photos": [
+      "plaza/dfw/plaza-premium-lounge-international-departures-terminal-d-1.jpg",
+      "plaza/dfw/plaza-premium-lounge-international-departures-terminal-d-2.jpg",
+      "plaza/dfw/plaza-premium-lounge-international-departures-terminal-d-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_DFW_TD_1_property_1125.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_DFW_TD_2_property_1125.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_DFW_TD_3_property_1125.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MCO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge Orlando (Airside)",
+    "photos": [
+      "plaza/mco/plaza-premium-lounge-orlando-airside-1.jpg",
+      "plaza/mco/plaza-premium-lounge-orlando-airside-2.jpg",
+      "plaza/mco/plaza-premium-lounge-orlando-airside-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mco_lounge_image01.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mco_lounge_image02.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mco_lounge_image03.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GIG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/gig/plaza-premium-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/gig/plaza-premium-lounge-domestic-departures-terminal-2-2.jpg",
+      "plaza/gig/plaza-premium-lounge-domestic-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_DomDep_T2_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_DomDep_T2_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_DomDep_T2_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GIG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/gig/plaza-premium-lounge-international-departures-terminal-2-1.jpg",
+      "plaza/gig/plaza-premium-lounge-international-departures-terminal-2-2.jpg",
+      "plaza/gig/plaza-premium-lounge-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_IntDep_T2_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_IntDep_T2_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_IntDep_T2_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GIG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Arrivals, Terminal 2)",
+    "photos": [
+      "plaza/gig/plaza-premium-lounge-arrivals-terminal-2-1.jpg",
+      "plaza/gig/plaza-premium-lounge-arrivals-terminal-2-2.jpg",
+      "plaza/gig/plaza-premium-lounge-arrivals-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_Arr_T2_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_Arr_T2_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GIG_Arr_T2_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GRU",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/gru/plaza-premium-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/gru/plaza-premium-lounge-domestic-departures-terminal-2-2.jpg",
+      "plaza/gru/plaza-premium-lounge-domestic-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_DOM-DEP_property_774.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_DOM-DEP_2_property_774.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_DOM-DEP_3_property_774.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GRU",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Landside, Terminal 2)",
+    "photos": [
+      "plaza/gru/plaza-premium-lounge-landside-terminal-2-1.jpg",
+      "plaza/gru/plaza-premium-lounge-landside-terminal-2-2.jpg",
+      "plaza/gru/plaza-premium-lounge-landside-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_landside_1_1600x800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_landside_2_1600x800-jpg.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/GRU_landside_3_1600x800-jpg.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YEG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (US Departures)",
+    "photos": [
+      "plaza/yeg/plaza-premium-lounge-us-departures-1.jpg",
+      "plaza/yeg/plaza-premium-lounge-us-departures-2.jpg",
+      "plaza/yeg/plaza-premium-lounge-us-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_US_Trans_Dep_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_US_Trans_Dep_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_US_Trans_Dep_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YEG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Non-US Departures)",
+    "photos": [
+      "plaza/yeg/plaza-premium-lounge-non-us-departures-1.jpg",
+      "plaza/yeg/plaza-premium-lounge-non-us-departures-2.jpg",
+      "plaza/yeg/plaza-premium-lounge-non-us-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_Dom_Int_Dep_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_Dom_Int_Dep_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YEG_Dom_Int_Dep_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YUL",
+    "provider": "Plaza Premium",
+    "name": "Air France Lounge operated by Plaza Premium Group (Departures)",
+    "photos": [
+      "plaza/yul/air-france-lounge-operated-by-plaza-premium-group-departures-1.jpg",
+      "plaza/yul/air-france-lounge-operated-by-plaza-premium-group-departures-2.jpg",
+      "plaza/yul/air-france-lounge-operated-by-plaza-premium-group-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yul-af-lounge-01.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yul-af-lounge-02.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yul-af-lounge-03.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YUL",
+    "provider": "Plaza Premium",
+    "name": "Desjardins US Temp Lounge",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (US Transborder, Terminal 1)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-1-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-1-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T1_US_1_property_797.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T1_US_2_property_797.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T1_US_3_property_797.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-1-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-1-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T1_DOM_thumb_property_790.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T1_DOM_1_property_790.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T1_DOM_2_property_790.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Terminal 3)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-3-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-3-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-domestic-departures-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T3_Dom_1_property_792.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T3_Dom_2_property_792.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YYZ_T3_Dom_3_property_792.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 3)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-international-departures-terminal-3-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-international-departures-terminal-3-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-international-departures-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T3_INT_Thumb_property_787.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T3_INT_1_property_787.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T3_INT_2_property_787.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (US Transborder, Terminal 3)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-3-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-3-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-us-transborder-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yyz-us-T3-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yyz-us-T3-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/yyz-us-T3-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Infield Concourse)",
+    "photos": [
+      "plaza/yyz/plaza-premium-lounge-departures-infield-concourse-1.jpg",
+      "plaza/yyz/plaza-premium-lounge-departures-infield-concourse-2.jpg",
+      "plaza/yyz/plaza-premium-lounge-departures-infield-concourse-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_YYZ_IFC1_property_1391.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_YYZ_IFC2_property_1391.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_YYZ_IFC3_property_1391.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YVR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-1.jpg",
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-2.jpg",
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YVR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Pier D)",
+    "photos": [
+      "plaza/yvr/plaza-premium-lounge-international-departures-pier-d-1.jpg",
+      "plaza/yvr/plaza-premium-lounge-international-departures-pier-d-2.jpg",
+      "plaza/yvr/plaza-premium-lounge-international-departures-pier-d-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-YVR_1600-x-800_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-YVR_1600-x-800_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-YVR_1600-x-800_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YVR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (US Departures)",
+    "photos": [
+      "plaza/yvr/plaza-premium-lounge-us-departures-1.jpg",
+      "plaza/yvr/plaza-premium-lounge-us-departures-2.jpg",
+      "plaza/yvr/plaza-premium-lounge-us-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LoungeImage01_YVR_PlazaPremiumTB_2022_web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_PlazaPremiumTB_2022_web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Loungeimage03_YVR_PlazaPremiumTB_2022_web.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YVR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures, Pier C)",
+    "photos": [
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-pier-c-1.jpg",
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-pier-c-2.jpg",
+      "plaza/yvr/plaza-premium-lounge-domestic-departures-pier-c-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_C_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_C_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YVR_Dom_Dep_C_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YWG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures)",
+    "photos": [
+      "plaza/ywg/plaza-premium-lounge-departures-1.jpg",
+      "plaza/ywg/plaza-premium-lounge-departures-2.jpg",
+      "plaza/ywg/plaza-premium-lounge-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YWG_Dep_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YWG_Dep_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/YWG_Dep_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLO",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Cali (Domestic Departures)",
+    "photos": [
+      "plaza/clo/avianca-lounge-cali-domestic-departures-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CLO_1400.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BOG",
+    "provider": "Plaza Premium",
+    "name": "Avianca Bogotá Gold Lounge (International)",
+    "photos": [
+      "plaza/bog/avianca-bogota-gold-lounge-international-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BOG_INTER_1400.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BOG",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Bogotá (Domestic)",
+    "photos": [
+      "plaza/bog/avianca-lounge-bogota-domestic-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BOG_DOM_1400.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CTG",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Cartagena (Domestic Terminal)",
+    "photos": [
+      "plaza/ctg/avianca-lounge-cartagena-domestic-terminal-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MDE_banner_thumbnail.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BAQ",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Barranquilla (Domestic Terminal)",
+    "photos": [
+      "plaza/baq/avianca-lounge-barranquilla-domestic-terminal-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BAQ_1600.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BAQ",
+    "provider": "Plaza Premium",
+    "name": "Macondo Lounge (Domestic Departures) — Coming Soon",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "BAQ",
+    "provider": "Plaza Premium",
+    "name": "Cumbia Lounge (International Departures) — Coming Soon",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "MDE",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Medellín (Domestic Terminal)",
+    "photos": [
+      "plaza/ctg/avianca-lounge-cartagena-domestic-terminal-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MDE_banner_thumbnail.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BGA",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge Bucaramanga (Domestic Terminal)",
+    "photos": [
+      "plaza/bga/avianca-lounge-bucaramanga-domestic-terminal-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BGA_1600.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SAL",
+    "provider": "Plaza Premium",
+    "name": "Avianca Lounge El Salvador (International Departures)",
+    "photos": [
+      "plaza/sal/avianca-lounge-el-salvador-international-departures-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/SAL_thumbnail.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CUN",
+    "provider": "Plaza Premium",
+    "name": "MERA Business Lounge (Terminal 2)",
+    "photos": [
+      "plaza/cun/mera-business-lounge-terminal-2-1.jpg",
+      "plaza/cun/mera-business-lounge-terminal-2-2.jpg",
+      "plaza/cun/mera-business-lounge-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mera-t2-gallery1-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mera-t2-gallery2-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Mera-t2-gallery3-1280-1024.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CUN",
+    "provider": "Plaza Premium",
+    "name": "MERA Business Lounge (Terminal 3)",
+    "photos": [
+      "plaza/cun/mera-business-lounge-terminal-3-1.jpg",
+      "plaza/cun/mera-business-lounge-terminal-3-2.jpg",
+      "plaza/cun/mera-business-lounge-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t3-gallery-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t3-gallery2-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t3-gallery3-1280-1024.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CUN",
+    "provider": "Plaza Premium",
+    "name": "MERA Business Lounge (Domestic Departures, Terminal 4)",
+    "photos": [
+      "plaza/cun/mera-business-lounge-domestic-departures-terminal-4-1.jpg",
+      "plaza/cun/mera-business-lounge-domestic-departures-terminal-4-2.jpg",
+      "plaza/cun/mera-business-lounge-domestic-departures-terminal-4-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t4-gallery1-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t4-gallery2-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t4-gallery3-1280-1024.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CUN",
+    "provider": "Plaza Premium",
+    "name": "MERA Business Lounge (International, Terminal 4)",
+    "photos": [
+      "plaza/cun/mera-business-lounge-domestic-departures-terminal-4-1.jpg",
+      "plaza/cun/mera-business-lounge-international-terminal-4-1.jpg",
+      "plaza/cun/mera-business-lounge-international-terminal-4-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/mera-t4-gallery1-1280-1024.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MERA_T4_2_1600x800-jpg.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MERA_T4_3_1600x800-jpg.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CUN",
+    "provider": "Plaza Premium",
+    "name": "VIP Lounge by MERA Roof (International Departure, Terminal 3)",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/VIP_Lou_Mera_Roof_Int_Dep_T3_Top.jpg",
+        "reason": "generic placeholder: same stock lifestyle photo as Generic_1280x1024, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "LOH",
+    "provider": "Plaza Premium",
+    "name": "Catamayo VIP Room — Coming Soon",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "KTI",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/kti/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/kti/plaza-premium-lounge-international-departures-2.jpg",
+      "plaza/kti/plaza-premium-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KTI_PPl_V1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KTI_PPl_V2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KTI_PPl_V3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PKX",
+    "provider": "Plaza Premium",
+    "name": "V3 China Eastern Lounge (Domestic Departure)",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/mu-generic-resize.jpg",
+        "reason": "generic placeholder: China Eastern brand wall, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "PKX",
+    "provider": "Plaza Premium",
+    "name": "China Southern Lounge (International Departure)",
+    "photos": [
+      "plaza/pkx/china-southern-lounge-international-departure-1.jpg",
+      "plaza/pkx/china-southern-lounge-international-departure-2.jpg",
+      "plaza/pkx/china-southern-lounge-international-departure-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_Lou_Int_Dep_1_property_1157.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_Lou_Int_Dep_2_property_1157.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_Lou_Int_Dep_3_property_1157.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PKX",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "PKX",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "PEK",
+    "provider": "Plaza Premium",
+    "name": "V2 China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/mu-generic-resize.jpg",
+        "reason": "generic placeholder: China Eastern brand wall, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "CGQ",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/cgq/china-southern-first-business-class-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/cgq/china-southern-first-business-class-lounge-domestic-departures-terminal-2-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CGQFirstBusinessClassLounge_1_property_1183.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CGQFirstBusinessClassLounge_2_property_1183.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CGQ",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/cgq/china-southern-skypearl-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/cgq/china-southern-skypearl-lounge-domestic-departures-terminal-2-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CGQSkyPearlLounge_1_property_1184.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CGQSkyPearlLounge_2_property_1184.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CSX",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/csx/china-southern-first-business-class-lounge-domestic-departures-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China Southern FirstBusiness Class Lounge (Domestic Departures, Terminal 2)_property_1172.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CSX",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departure, Terminal 2)",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/CZ-generic-1903-500.jpg",
+        "reason": "generic placeholder: China Southern brand banner shared across lounges, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "TFU",
+    "provider": "Plaza Premium",
+    "name": "V2 China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/tfu/v2-china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TFU_1.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CTU",
+    "provider": "Plaza Premium",
+    "name": "China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/ctu/china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KMG_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CKG",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/ckg/china-southern-first-business-class-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ckg-first-business-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CKG",
+    "provider": "Plaza Premium",
+    "name": "China Southern Gold/Silver/Elite Plus Lounge (Domestic Departures, Terminal 3)",
+    "photos": [
+      "plaza/ckg/china-southern-gold-silver-elite-plus-lounge-domestic-departures-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ckg-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Pier E, Domestic Departures, Terminal T3A)",
+    "photos": [
+      "plaza/ckg/plaza-premium-lounge-pier-e-domestic-departures-terminal-t3a-1.jpg",
+      "plaza/ckg/plaza-premium-lounge-pier-e-domestic-departures-terminal-t3a-2.jpg",
+      "plaza/ckg/plaza-premium-lounge-pier-e-domestic-departures-terminal-t3a-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ckg-pier-e-1600x800-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ckg-pier-e-1600x800-3.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ckg-pier-e-1600x800-1.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Pier H, International Departures, Terminal T3A)",
+    "photos": [
+      "plaza/ckg/plaza-premium-lounge-pier-h-international-departures-terminal-t3a-1.jpg",
+      "plaza/ckg/plaza-premium-lounge-pier-h-international-departures-terminal-t3a-2.jpg",
+      "plaza/ckg/plaza-premium-lounge-pier-h-international-departures-terminal-t3a-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG-PIER-H-loungeimage1_updated.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG-PIER-H-loungeimage2_updated.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG-PIER-H-loungeimage3_updated.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Landside, Terminal T3A)",
+    "photos": [
+      "plaza/ckg/plaza-premium-lounge-departures-landside-terminal-t3a-1.jpg",
+      "plaza/ckg/plaza-premium-lounge-departures-landside-terminal-t3a-2.jpg",
+      "plaza/ckg/plaza-premium-lounge-departures-landside-terminal-t3a-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG_Landside_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG_Landside_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CKG_Landside_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DLC",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/dlc/china-southern-first-business-class-lounge-domestic-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dalian - China Southern First Business Class Lounge _property_1185.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DLC",
+    "provider": "Plaza Premium",
+    "name": "China Southern Gold/Silver/Elite Plus Lounge (Domestic Departures, Terminal 1) — Coming Soon",
+    "photos": [
+      "plaza/dlc/china-southern-gold-silver-elite-plus-lounge-domestic-departures-terminal-1-coming-soon-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dalian - China Southern Gold Silver Elite Plus Lounge _property_1186.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DLC",
+    "provider": "Plaza Premium",
+    "name": "China Southern Gold/Silver/Elite Plus Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/dlc/china-southern-gold-silver-elite-plus-lounge-international-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dalian - Intl Dep - China Southern Gold Silver Elite Plus Lounge _property_1187.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CAN",
+    "provider": "Plaza Premium",
+    "name": "China Southern VIP Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/can/china-southern-vip-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/can/china-southern-vip-lounge-domestic-departures-terminal-2-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_VIP_Lou_Dom_Dep_T2_1_property_1221.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_VIP_Lou_Dom_Dep_T2_2_property_1221.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KWE",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/kwe/china-southern-first-business-class-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/kwe-first-business-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KWE",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departure, Terminal 3)",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/Generic_1280x1024_property_1199.jpg",
+        "reason": "generic placeholder: stock lifestyle photo, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "HAK",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/hak/china-southern-skypearl-lounge-domestic-departures-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/hak-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HRB",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class/Gold/Silver Lounge (Domestic Departure, Terminal 2) — Coming Soon",
+    "photos": [
+      "plaza/hrb/china-southern-first-business-class-gold-silver-lounge-domestic-departure-terminal-2-coming-soon-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/hrb-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HFE",
+    "provider": "Plaza Premium",
+    "name": "No. 2 China Eastern Lounge (Domestic Departure, Terminal 1)",
+    "photos": [
+      "plaza/hfe/no-2-china-eastern-lounge-domestic-departure-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/HFE.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Near Gate 1, Departures)",
+    "photos": [
+      "plaza/hkg/plaza-premium-lounge-near-gate-1-departures-1.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-1-departures-2.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-1-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLEHKG_1_property_758.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLEHKG_2_property_758.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLEHKG_3_property_758.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Near Gate 35, Departures)",
+    "photos": [
+      "plaza/hkg/plaza-premium-lounge-near-gate-35-departures-1.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-35-departures-2.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-35-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG35_1_property_753.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG35_2_property_753.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG35_3_property_753.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HKG",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Near Gate 60, Departures)",
+    "photos": [
+      "plaza/hkg/plaza-premium-lounge-near-gate-60-departures-1.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-60-departures-2.jpg",
+      "plaza/hkg/plaza-premium-lounge-near-gate-60-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG60_1_property_754.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG60_2_property_754.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLHKGG60_3_property_754.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SWA",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (First/ Business Class)",
+    "photos": [
+      "plaza/swa/china-southern-skypearl-lounge-first-business-class-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/swa-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SWA",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Member Lounge)",
+    "photos": [
+      "plaza/swa/china-southern-skypearl-lounge-first-business-class-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/swa-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TNA",
+    "provider": "Plaza Premium",
+    "name": "China Eastern Lounge (Domestic Departure)",
+    "photos": [
+      "plaza/tna/china-eastern-lounge-domestic-departure-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TNA.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KMG",
+    "provider": "Plaza Premium",
+    "name": "V8 China Eastern Lounge (Domestic Departure, Terminal 1)",
+    "photos": [
+      "plaza/ctu/china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KMG_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHW",
+    "provider": "Plaza Premium",
+    "name": "China Eastern Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/lhw/china-eastern-lounge-domestic-departure-terminal-3-1.jpg",
+      "plaza/lhw/china-eastern-lounge-domestic-departure-terminal-3-2.jpg",
+      "plaza/lhw/china-eastern-lounge-domestic-departure-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHW_CEADOM_BN2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHW_CEADOM_BN1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHW_CEADOM_BN3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MFM",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures)",
+    "photos": [
+      "plaza/mfm/plaza-premium-lounge-departures-1.jpg",
+      "plaza/mfm/plaza-premium-lounge-departures-2.jpg",
+      "plaza/mfm/plaza-premium-lounge-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MFM_1_property_809.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MFM_2_property_809.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/MFM_3_property_809.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KHN",
+    "provider": "Plaza Premium",
+    "name": "China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/khn/china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KHN_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NKG",
+    "provider": "Plaza Premium",
+    "name": "V3 China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/nkg/v3-china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NKG_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NNG",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/nng/china-southern-first-business-class-lounge-domestic-departures-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/nng-first-business-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NNG",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/nng/china-southern-skypearl-lounge-domestic-departures-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/nng-skypearl-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NNY",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/nny/china-southern-skypearl-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/nny-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NGB",
+    "provider": "Plaza Premium",
+    "name": "China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/ngb/china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ngb-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TAO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/tao/plaza-premium-lounge-domestic-departures-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Joyful - Qingdao_property_1261.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TAO",
+    "provider": "Plaza Premium",
+    "name": "V5 China Eastern Lounge (Domestic Departure, Terminal 1)",
+    "photos": [
+      "plaza/tao/v5-china-eastern-lounge-domestic-departure-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TAO_MU_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SYX",
+    "provider": "Plaza Premium",
+    "name": "China Southern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/syx/china-southern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/syx-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 77 China Eastern Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/pvg/no-77-china-eastern-lounge-international-departures-terminal-2-1.jpg",
+      "plaza/pvg/no-77-china-eastern-lounge-international-departures-terminal-2-2.jpg",
+      "plaza/pvg/no-77-china-eastern-lounge-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/No77-T2-Intl-Dep_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/no77-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/no77-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 101 China Eastern Lounge (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-101-china-eastern-lounge-domestic-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PVG - No. 101 China Eastern Lounge_property_1163.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 35 China Eastern Lounge (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-35-china-eastern-lounge-domestic-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PVG - No. 35 China Eastern Lounge_property_1161.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 36 China Eastern Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-36-china-eastern-lounge-international-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PVG - No. 36 China Eastern Lounge_v2_property_1162.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "Juneyao Air No. 86 VIP Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/pvg/juneyao-air-no-86-vip-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/pvg/juneyao-air-no-86-vip-lounge-domestic-departures-terminal-2-2.jpg",
+      "plaza/pvg/juneyao-air-no-86-vip-lounge-domestic-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Juneyao_Air_No86_1_property_1228.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Juneyao_Air_No86_2_property_1228.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Juneyao_Air_No86_3_property_1228.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "China Southern Lounge (Domestic Departure)",
+    "photos": [
+      "plaza/pvg/china-southern-lounge-domestic-departure-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/%e6%b5%a6%e4%b8%9c-S2-152%e5%8f%b7%e6%98%8e%e7%8f%a0%e4%bc%91%e6%81%af%e5%ae%a4.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 9 VIP Lounge (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-9-vip-lounge-domestic-departures-terminal-1-1.jpg",
+      "plaza/pvg/no-9-vip-lounge-domestic-departures-terminal-1-2.jpg",
+      "plaza/pvg/no-9-vip-lounge-domestic-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/No_9_VIP_Lou_Dom_Dep_T1_1_property_808.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/No_9_VIP_Lou_Dom_Dep_T1_2_property_808.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/No_9_VIP_Lou_Dom_Dep_T1_3_property_808.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 39 VIP Lounge (International Departure, Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-39-vip-lounge-international-departure-terminal-1-1.jpg",
+      "plaza/pvg/no-39-vip-lounge-international-departure-terminal-1-2.jpg",
+      "plaza/pvg/no-39-vip-lounge-international-departure-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/no39_lounge entrance_property_1224.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/no39_2_property_1224.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/no39_3_property_1224.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 69 VIP Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/pvg/no-69-vip-lounge-international-departures-terminal-2-1.jpg",
+      "plaza/pvg/no-69-vip-lounge-international-departures-terminal-2-2.jpg",
+      "plaza/pvg/no-69-vip-lounge-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/69_Entrance_property_1215.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/69_Reception_property_1215.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/69_Lounge Area_1_property_1215.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 73 VIP Lounge (Domestic Departures, Terminal 2)",
+    "photos": [
+      "plaza/pvg/no-73-vip-lounge-domestic-departures-terminal-2-1.jpg",
+      "plaza/pvg/no-73-vip-lounge-domestic-departures-terminal-2-2.jpg",
+      "plaza/pvg/no-73-vip-lounge-domestic-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/73_lounge entrance_property_1225.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/73_2_property_1225.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/73_3_property_1225.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 120 VIP Lounge (Domestic Departure, Satellite Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-120-vip-lounge-domestic-departure-satellite-terminal-1-1.jpg",
+      "plaza/pvg/no-120-vip-lounge-domestic-departure-satellite-terminal-1-2.jpg",
+      "plaza/pvg/no-120-vip-lounge-domestic-departure-satellite-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/120_Lounge Entrance_property_1226.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/120_2_property_1226.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/120_3_property_1226.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 135 VIP Lounge (International Departure, Satellite Terminal 1)",
+    "photos": [
+      "plaza/pvg/no-135-vip-lounge-international-departure-satellite-terminal-1-1.jpg",
+      "plaza/pvg/no-135-vip-lounge-international-departure-satellite-terminal-1-2.jpg",
+      "plaza/pvg/no-135-vip-lounge-international-departure-satellite-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/135_Lounge Entrance_property_1241.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/135_2_property_1241.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/135_3_property_1241.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 170 VIP Lounge (International Departure, Satellite Terminal 2)",
+    "photos": [
+      "plaza/pvg/no-170-vip-lounge-international-departure-satellite-terminal-2-1.jpg",
+      "plaza/pvg/no-170-vip-lounge-international-departure-satellite-terminal-2-2.jpg",
+      "plaza/pvg/no-170-vip-lounge-international-departure-satellite-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/170_thumb_property_1227.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/170_2_property_1227.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/170_1_property_1227.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PVG",
+    "provider": "Plaza Premium",
+    "name": "No. 190 VIP Lounge (Domestic Departure, Satellite Terminal 2)",
+    "photos": [
+      "plaza/pvg/no-190-vip-lounge-domestic-departure-satellite-terminal-2-1.jpg",
+      "plaza/pvg/no-190-vip-lounge-domestic-departure-satellite-terminal-2-2.jpg",
+      "plaza/pvg/no-190-vip-lounge-domestic-departure-satellite-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/190_Entrance_property_1230.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/190_Reception_property_1230.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/190_Lounge Area 1_property_1230.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHA",
+    "provider": "Plaza Premium",
+    "name": "China Southern Lounge",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://img.plazapremiumlounge.com/static_images/prop_images/CZ-generic-1903-500.jpg",
+        "reason": "generic placeholder: China Southern brand banner shared across lounges, not this lounge"
+      }
+    ]
+  },
+  {
+    "airport": "SHA",
+    "provider": "Plaza Premium",
+    "name": "No. 6 VIP Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/sha/no-6-vip-lounge-domestic-departures-1.jpg",
+      "plaza/sha/no-6-vip-lounge-domestic-departures-2.jpg",
+      "plaza/sha/no-6-vip-lounge-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Joyful - Shanghai Hongqiao - 1_property_1248.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Joyful - Shanghai Hongqiao - 2_property_1248.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Joyful - Shanghai Hongqiao - 3_property_1248.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHA",
+    "provider": "Plaza Premium",
+    "name": "V1 VIP Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/sha/v1-vip-lounge-domestic-departure-terminal-2-1.jpg",
+      "plaza/sha/v1-vip-lounge-domestic-departure-terminal-2-2.jpg",
+      "plaza/sha/v1-vip-lounge-domestic-departure-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V1_VIP_Lou_Dom_Dep_T2_1_property_1232.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V1_VIP_Lou_Dom_Dep_T2_2_property_1232.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V1_VIP_Lou_Dom_Dep_T2_3_property_1232.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHA",
+    "provider": "Plaza Premium",
+    "name": "V01 VIP International Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/sha/v01-vip-international-lounge-international-departures-terminal-1-1.jpg",
+      "plaza/sha/v01-vip-international-lounge-international-departures-terminal-1-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/sha_v01_01_property_798.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/sha_v01_02_property_798.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHA",
+    "provider": "Plaza Premium",
+    "name": "V03 VIP Lounge (International Departure, Terminal 1)",
+    "photos": [
+      "plaza/sha/v03-vip-lounge-international-departure-terminal-1-1.jpg",
+      "plaza/sha/v03-vip-lounge-international-departure-terminal-1-2.jpg",
+      "plaza/sha/v03-vip-lounge-international-departure-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V03_VIP_Lou_Int_Dep_T1_1_property_1233.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V03_VIP_Lou_Int_Dep_T1_2_property_1233.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/V03_VIP_Lou_Int_Dep_T1_3_property_1233.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHE",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/she/china-southern-skypearl-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/she-t3-intl-skypearl-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHE",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class/Gold/Silver Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/she/china-southern-first-business-class-gold-silver-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/she-t3-first-business-gold-domestic-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SHE",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/she/china-southern-first-business-class-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China_Southern_F_B_Class_Lou_Dom_Dep_T3_1.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SZX",
+    "provider": "Plaza Premium",
+    "name": "China Southern No 2 Lounge (Domestic Departure)",
+    "photos": [
+      "plaza/szx/china-southern-no-2-lounge-domestic-departure-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/%e6%b7%b1%e5%9c%b3T3%e5%9b%bd%e5%86%85-%e6%98%8e%e7%8f%a0%e4%bc%91%e6%81%af%e5%ae%a42.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SZX",
+    "provider": "Plaza Premium",
+    "name": "China Southern No 3 Lounge (Domestic Departure)",
+    "photos": [
+      "plaza/szx/china-southern-no-2-lounge-domestic-departure-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/%e6%b7%b1%e5%9c%b3T3%e5%9b%bd%e5%86%85-%e6%98%8e%e7%8f%a0%e4%bc%91%e6%81%af%e5%ae%a42.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "WUX",
+    "provider": "Plaza Premium",
+    "name": "V3 China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/wux/v3-china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/WUX_1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TYN",
+    "provider": "Plaza Premium",
+    "name": "V2 China Eastern Lounge (Domestic Departure, Terminal 2)",
+    "photos": [
+      "plaza/tyn/v2-china-eastern-lounge-domestic-departure-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/tyn-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "URC",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departures, North Terminal)",
+    "photos": [
+      "plaza/urc/china-southern-first-business-class-lounge-domestic-departures-north-terminal-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/urc-first-business-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "URC",
+    "provider": "Plaza Premium",
+    "name": "China Southern Pearl Lounge (Domestic Departures, North Terminal)",
+    "photos": [
+      "plaza/urc/china-southern-pearl-lounge-domestic-departures-north-terminal-1.jpg",
+      "plaza/urc/china-southern-pearl-lounge-domestic-departures-north-terminal-2.jpg",
+      "plaza/urc/china-southern-pearl-lounge-domestic-departures-north-terminal-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Pearl_Top_property_1289.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Pearl_v1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Pearl_v2.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "URC",
+    "provider": "Plaza Premium",
+    "name": "China Southern Airlines VIP Lounge (International Departure, North Terminal)",
+    "photos": [
+      "plaza/urc/china-southern-airlines-vip-lounge-international-departure-north-terminal-1.jpg",
+      "plaza/urc/china-southern-airlines-vip-lounge-international-departure-north-terminal-2.jpg",
+      "plaza/urc/china-southern-airlines-vip-lounge-international-departure-north-terminal-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CSA_VIPLOUINT_URC_BN1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CSA_VIPLOUINT_URC_BN2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CSA_VIPLOUINT_URC_BN3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "WUH",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/wuh/china-southern-first-business-class-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China-Southern-FirstBusiness-Class-Lounge-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "WUH",
+    "provider": "Plaza Premium",
+    "name": "China Southern Elite Plus Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/wuh/china-southern-elite-plus-lounge-domestic-departure-terminal-3-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/China-Southern-Elite-Plus-Lounge-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "WUH",
+    "provider": "Plaza Premium",
+    "name": "V4 China Eastern Lounge (Domestic Departure, Terminal 3)",
+    "photos": [
+      "plaza/wuh/v4-china-eastern-lounge-domestic-departure-terminal-3-1.jpg",
+      "plaza/wuh/v4-china-eastern-lounge-domestic-departure-terminal-3-2.jpg",
+      "plaza/wuh/v4-china-eastern-lounge-domestic-departure-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/1600_x_800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/1600_x_-800_v2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/1600_x_800_v3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "XIY",
+    "provider": "Plaza Premium",
+    "name": "V22 China Eastern Lounge (Domestic Departure, Terminal 5)",
+    "photos": [
+      "plaza/xiy/v22-china-eastern-lounge-domestic-departure-terminal-5-1.jpg",
+      "plaza/xiy/v22-china-eastern-lounge-domestic-departure-terminal-5-2.jpg",
+      "plaza/xiy/v22-china-eastern-lounge-domestic-departure-terminal-5-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lounge-image-1600-x-800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lounge_imge_1600_x_800_v3.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lounge_image_1600_x_800_v4.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CGO",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Class Lounge",
+    "photos": [
+      "plaza/cgo/china-southern-first-business-class-lounge-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/cgo-first-business-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CGO",
+    "provider": "Plaza Premium",
+    "name": "China Southern Skypearl Lounge",
+    "photos": [
+      "plaza/cgo/china-southern-skypearl-lounge-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/cgo-skypearl-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ZUH",
+    "provider": "Plaza Premium",
+    "name": "China Southern First/Business Gold/Silver/Elite Plus Class Lounge",
+    "photos": [
+      "plaza/zuh/china-southern-first-business-gold-silver-elite-plus-class-lounge-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/zuh-banner.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CGK",
+    "provider": "Plaza Premium",
+    "name": "Sapphire – Plaza Premium Lounge (International Departures, Terminal 3)",
+    "photos": [
+      "plaza/cgk/sapphire-plaza-premium-lounge-international-departures-terminal-3-1.jpg",
+      "plaza/cgk/sapphire-plaza-premium-lounge-international-departures-terminal-3-2.jpg",
+      "plaza/cgk/sapphire-plaza-premium-lounge-international-departures-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-CGK-Megalounge-WB-1600x800-A.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-CGK-Megalounge-WB-1600x800-B.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-CGK-Megalounge-WB-1600x800-C.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KNO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures)",
+    "photos": [
+      "plaza/kno/plaza-premium-lounge-departures-1.jpg",
+      "plaza/kno/plaza-premium-lounge-departures-2.jpg",
+      "plaza/kno/plaza-premium-lounge-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KNO_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KNO_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KNO_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KNO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures) — Coming Soon",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "NGO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge Nagoya (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/ngo/plaza-premium-lounge-nagoya-international-departures-terminal-1-1.jpg",
+      "plaza/ngo/plaza-premium-lounge-nagoya-international-departures-terminal-1-2.jpg",
+      "plaza/ngo/plaza-premium-lounge-nagoya-international-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NGO-lounge-website_1600-x-800-px-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NGO-lounge-website_1600-x-800-px-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/NGO-lounge-website_1600-x-800-px-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "NGO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge Nagoya (Domestic Departures, Terminal 1)",
+    "photos": [
+      "plaza/ngo/plaza-premium-lounge-nagoya-domestic-departures-terminal-1-1.jpg",
+      "plaza/ngo/plaza-premium-lounge-nagoya-domestic-departures-terminal-1-2.jpg",
+      "plaza/ngo/plaza-premium-lounge-nagoya-domestic-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Lounge Primary_Thumbnail_property_1408.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Lounge Other 03_1600x800_property_1408.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Lounge Other 02_1600x800_property_1408.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KUL",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Contact Pier, KLIA Terminal 1)",
+    "photos": [
+      "plaza/kul/plaza-premium-lounge-international-departures-contact-pier-klia-terminal-1-1.jpg",
+      "plaza/kul/plaza-premium-lounge-international-departures-contact-pier-klia-terminal-1-2.jpg",
+      "plaza/kul/plaza-premium-lounge-international-departures-contact-pier-klia-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "KUL",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Next to Aerotel Kuala Lumpur, gateway@klia2, KLIA Terminal 2)",
+    "photos": [
+      "plaza/kul/plaza-premium-lounge-next-to-aerotel-kuala-lumpur-gateway-klia2-klia-terminal-2-1.jpg",
+      "plaza/kul/plaza-premium-lounge-next-to-aerotel-kuala-lumpur-gateway-klia2-klia-terminal-2-2.jpg",
+      "plaza/kul/plaza-premium-lounge-next-to-aerotel-kuala-lumpur-gateway-klia2-klia-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_KUL_ARR_T2_1_property_912.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KUL_Arr_klia2_NextAero_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/KUL_Arr_klia2_NextAero_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGK",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Arrival Hall, Concourse, Landside)",
+    "photos": [
+      "plaza/lgk/plaza-premium-lounge-arrival-hall-concourse-landside-1.jpg",
+      "plaza/lgk/plaza-premium-lounge-arrival-hall-concourse-landside-2.jpg",
+      "plaza/lgk/plaza-premium-lounge-arrival-hall-concourse-landside-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/compressed_lounge_1 (1)_property_1359.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/compressed_lounge_2 (1)_property_1359.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/compressed_lounge_3_property_1359.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PEN",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/pen/plaza-premium-lounge-domestic-departures-1.jpg",
+      "plaza/pen/plaza-premium-lounge-domestic-departures-2.jpg",
+      "plaza/pen/plaza-premium-lounge-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-pen-dom-dep-l2-seating-01_property_910.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-pen-dom-dep-l2-seating-02_property_910.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl-pen-dom-dep-l2-seating-03_property_910.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PEN",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/pen/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/pen/plaza-premium-lounge-international-departures-2.jpg",
+      "plaza/pen/plaza-premium-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PEN_IntDep_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PEN_IntDep_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PEN_IntDep_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JHB",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International & Domestic Departures)",
+    "photos": [
+      "plaza/jhb/plaza-premium-lounge-international-domestic-departures-1.jpg",
+      "plaza/jhb/plaza-premium-lounge-international-domestic-departures-2.jpg",
+      "plaza/jhb/plaza-premium-lounge-international-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-JHB_Interior_1600x800_1_IBE-carousel.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-JHB_Interior_1600x800_2_IBE-carousel.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-JHB_Interior_1600x800_3_IBE-carousel.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MDL",
+    "provider": "Plaza Premium",
+    "name": "CIP Lounge (Departure)",
+    "photos": [
+      "plaza/mdl/cip-lounge-departure-1.jpg",
+      "plaza/mdl/cip-lounge-departure-2.jpg",
+      "plaza/mdl/cip-lounge-departure-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CIP_Lounge_1_property_999.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CIP_Lounge_2_property_999.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CIP_Lounge_3_property_999.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CEB",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/ceb/plaza-premium-lounge-international-departures-terminal-2-1.jpg",
+      "plaza/ceb/plaza-premium-lounge-international-departures-terminal-2-2.jpg",
+      "plaza/ceb/plaza-premium-lounge-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB INT_01_property_921.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB INT_02_property_921.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB INT_03_property_921.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CEB",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departure, Terminal 1)",
+    "photos": [
+      "plaza/ceb/plaza-premium-lounge-domestic-departure-terminal-1-1.jpg",
+      "plaza/ceb/plaza-premium-lounge-domestic-departure-terminal-1-2.jpg",
+      "plaza/ceb/plaza-premium-lounge-domestic-departure-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB_COM_01_property_917.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB_COM_02_property_917.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CEB_COM_03_property_917.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CRK",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Terminal 2)",
+    "photos": [
+      "plaza/crk/plaza-premium-lounge-departures-terminal-2-1.jpg",
+      "plaza/crk/plaza-premium-lounge-departures-terminal-2-2.jpg",
+      "plaza/crk/plaza-premium-lounge-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CRK_01_property_920.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CRK_02_property_920.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_CRK_03_property_920.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SIN",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/sin/plaza-premium-lounge-international-departures-terminal-1-1.jpg",
+      "plaza/sin/plaza-premium-lounge-international-departures-terminal-1-2.jpg",
+      "plaza/sin/plaza-premium-lounge-international-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL SIN_01_property_960.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL SIN_02_property_960.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL SIN_03_property_960.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SIN",
+    "provider": "Plaza Premium",
+    "name": "Blossom – SATS & Plaza Premium Lounge (International Departures, Terminal 4)",
+    "photos": [
+      "plaza/sin/blossom-sats-plaza-premium-lounge-international-departures-terminal-4-1.jpg",
+      "plaza/sin/blossom-sats-plaza-premium-lounge-international-departures-terminal-4-2.jpg",
+      "plaza/sin/blossom-sats-plaza-premium-lounge-international-departures-terminal-4-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/SIN_Blossom_1600x800_Front.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/SIN_Blossom_1600x800_Bar.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/SIN_Blossom_1600x800_Dining.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TPE",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge The Blossom (Zone D, International Departures, Terminal 1)",
+    "photos": [
+      "plaza/tpe/plaza-premium-lounge-the-blossom-zone-d-international-departures-terminal-1-1.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-blossom-zone-d-international-departures-terminal-1-2.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-blossom-zone-d-international-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_D_1600x800_Reception_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_D_1600x800_Dining_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_D_1600x800_Honeycomb_Web.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TPE",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge The Jade (Zone C, International Departures, Terminal 1)",
+    "photos": [
+      "plaza/tpe/plaza-premium-lounge-the-jade-zone-c-international-departures-terminal-1-1.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-jade-zone-c-international-departures-terminal-1-2.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-jade-zone-c-international-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_C_1600x800_Frontage_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_C_1600x800_Dining_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T1_C_1600x800_FnB_Web.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TPE",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge The Crest (Zone A1, International Departures, Terminal 2)",
+    "photos": [
+      "plaza/tpe/plaza-premium-lounge-the-crest-zone-a1-international-departures-terminal-2-1.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-crest-zone-a1-international-departures-terminal-2-2.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-crest-zone-a1-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T2_A1_1600x800_OpenArea_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T2_A1_1600x800_Seats_Web.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/TPE_T2_A1_1600x800_DiningArea_Web.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TPE",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge The Terroir (Zone A, International Departures, Terminal 2)",
+    "photos": [
+      "plaza/tpe/plaza-premium-lounge-the-terroir-zone-a-international-departures-terminal-2-1.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-terroir-zone-a-international-departures-terminal-2-2.jpg",
+      "plaza/tpe/plaza-premium-lounge-the-terroir-zone-a-international-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T2A_thumb_property_811.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T2A_1_property_811.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/T2A_2_property_811.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TSA",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 1)",
+    "photos": [
+      "plaza/tsa/plaza-premium-lounge-international-departures-terminal-1-1.jpg",
+      "plaza/tsa/plaza-premium-lounge-international-departures-terminal-1-2.jpg",
+      "plaza/tsa/plaza-premium-lounge-international-departures-terminal-1-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/IBE_1600-x-800d.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/IBE_1600-x-800e.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/IBE_1600-x-800b.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BKK",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Concourse G)",
+    "photos": [
+      "plaza/bkk/plaza-premium-lounge-international-departures-concourse-g-1.jpg",
+      "plaza/bkk/plaza-premium-lounge-international-departures-concourse-g-2.jpg",
+      "plaza/bkk/plaza-premium-lounge-international-departures-concourse-g-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BKK PPL 1_property_1389.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BKK PPL 2_property_1389.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BKK PPL 3_property_1389.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HEL",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Non-schengen area, Mezzanine level, Departure)",
+    "photos": [
+      "plaza/hel/plaza-premium-lounge-non-schengen-area-mezzanine-level-departure-1.jpg",
+      "plaza/hel/plaza-premium-lounge-non-schengen-area-mezzanine-level-departure-2.jpg",
+      "plaza/hel/plaza-premium-lounge-non-schengen-area-mezzanine-level-departure-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_HEL_images_bar_1600x500.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_HEL_images_dining_1600x500.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_HEL_images_lounge_bay_1600x500.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BUD",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Non-Schengen Area, Departures, Mezzanine Floor, Terminal 2B)",
+    "photos": [
+      "plaza/bud/plaza-premium-lounge-non-schengen-area-departures-mezzanine-floor-terminal-2b-1.jpg",
+      "plaza/bud/plaza-premium-lounge-non-schengen-area-departures-mezzanine-floor-terminal-2b-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_BUD_1_property_1323.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_BUD_2_property_1323.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "FCO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Extra Schengen Area, Departures, Terminal 3)",
+    "photos": [
+      "plaza/fco/plaza-premium-lounge-extra-schengen-area-departures-terminal-3-1.jpg",
+      "plaza/fco/plaza-premium-lounge-extra-schengen-area-departures-terminal-3-2.jpg",
+      "plaza/fco/plaza-premium-lounge-extra-schengen-area-departures-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dep_T3_1600x800_Web2-1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dep_T3_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Dep_T3_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "FCO",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Schengen Area Departures Terminal 1)",
+    "photos": [
+      "plaza/fco/plaza-premium-lounge-schengen-area-departures-terminal-1-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/FCO-T1-lounge-Reception.JPG?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SAW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/saw/plaza-premium-lounge-domestic-departures-1.jpg",
+      "plaza/saw/plaza-premium-lounge-domestic-departures-2.jpg",
+      "plaza/saw/plaza-premium-lounge-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_SAW_Anadolu_1_property_1085.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_SAW_Anadolu_2_property_1085.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_SAW_Anadolu_3_property_1085.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SAW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Bosphorus Lounge (Near Gate 204-B, International Departures)",
+    "photos": [
+      "plaza/saw/plaza-premium-bosphorus-lounge-near-gate-204-b-international-departures-1.jpg",
+      "plaza/saw/plaza-premium-bosphorus-lounge-near-gate-204-b-international-departures-2.jpg",
+      "plaza/saw/plaza-premium-bosphorus-lounge-near-gate-204-b-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Bosphorus_Lou_1_property_1087.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Bosphorus_Lou_2_property_1087.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Bosphorus_Lou_3_property_1087.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SAW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Marmara Lounge (Near Gate 205-B, International Departures)",
+    "photos": [
+      "plaza/saw/plaza-premium-bosphorus-lounge-near-gate-204-b-international-departures-1.jpg",
+      "plaza/saw/plaza-premium-marmara-lounge-near-gate-205-b-international-departures-1.jpg",
+      "plaza/saw/plaza-premium-marmara-lounge-near-gate-205-b-international-departures-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Marmara_Lou_1_property_1086.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Marmara_Lou_2_property_1086.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Marmara_Lou_3_property_1086.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "EDI",
+    "provider": "Plaza Premium",
+    "name": "Turkish Airlines Lounge by Plaza Premium Group (Departure Hall)",
+    "photos": [
+      "plaza/edi/turkish-airlines-lounge-by-plaza-premium-group-departure-hall-1.jpg",
+      "plaza/edi/turkish-airlines-lounge-by-plaza-premium-group-departure-hall-2.jpg",
+      "plaza/edi/turkish-airlines-lounge-by-plaza-premium-group-departure-hall-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Turkish_Airlines_Lou_by_PPG_Dep_Hall_1_property_976.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Turkish_Airlines_Lou_by_PPG_Dep_Hall_2_property_976.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Turkish_Airlines_Lou_by_PPG_Dep_Hall_3_property_976.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, North Terminal)",
+    "photos": [
+      "plaza/lgw/plaza-premium-lounge-departures-north-terminal-1.jpg",
+      "plaza/lgw/plaza-premium-lounge-departures-north-terminal-2.jpg",
+      "plaza/lgw/plaza-premium-lounge-departures-north-terminal-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lgw-lounge1-1600-800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lgw-entrance-1600-800.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/lgw-lounge3-1600-800.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGW",
+    "provider": "Plaza Premium",
+    "name": "Plaza Express (Departures, North Terminal)",
+    "photos": [
+      "plaza/lgw/plaza-express-departures-north-terminal-1.jpg",
+      "plaza/lgw/plaza-express-departures-north-terminal-2.jpg",
+      "plaza/lgw/plaza-express-departures-north-terminal-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LGW_Express_1_property_982.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Plaza-Express_1600x800_2.png?ext=.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/Plaza-Express_1600x800_3.png?ext=.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Terminal 2)",
+    "photos": [
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-2-1.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-2-2.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-2-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T2_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T2_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T2_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Terminal 4)",
+    "photos": [
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-4-1.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-4-2.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-4-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-LHR-T4D_1600x800_2.png?ext=.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-LHR-T4D_1600x800_1.png?ext=.png",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL-LHR-T4D_1600x800_3.png?ext=.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Departures, Terminal 5)",
+    "photos": [
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-5-1.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-5-2.jpg",
+      "plaza/lhr/plaza-premium-lounge-departures-terminal-5-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T5_1600x800_Web2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T5_1600x800_Web1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHR_Dep_T5_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Plaza Premium",
+    "name": "Blush Lounge by Plaza Premium Group (Departures, Terminal 4)",
+    "photos": [
+      "plaza/lhr/blush-lounge-by-plaza-premium-group-departures-terminal-4-1.jpg",
+      "plaza/lhr/blush-lounge-by-plaza-premium-group-departures-terminal-4-2.jpg",
+      "plaza/lhr/blush-lounge-by-plaza-premium-group-departures-terminal-4-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BL_LHR_1_1600x800px.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BL_LHR_3_1600x800px.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/BL_LHR_4_1600x800px.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Arrivals, Terminal 3)",
+    "photos": [
+      "plaza/lhr/plaza-premium-lounge-arrivals-terminal-3-1.jpg",
+      "plaza/lhr/plaza-premium-lounge-arrivals-terminal-3-2.jpg",
+      "plaza/lhr/plaza-premium-lounge-arrivals-terminal-3-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHRT3A_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHRT3A_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/LHRT3A_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MAD",
+    "provider": "Plaza Premium",
+    "name": "The Hub Lounge Aerotel (Landside, Terminal 4)",
+    "photos": [
+      "plaza/mad/the-hub-lounge-aerotel-landside-terminal-4-1.jpg",
+      "plaza/mad/the-hub-lounge-aerotel-landside-terminal-4-2.jpg",
+      "plaza/mad/the-hub-lounge-aerotel-landside-terminal-4-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/The_Hub_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/The_Hub_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/The_Hub_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ADL",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (Domestic Departures)",
+    "photos": [
+      "plaza/adl/plaza-premium-lounge-domestic-departures-1.jpg",
+      "plaza/adl/plaza-premium-lounge-domestic-departures-2.jpg",
+      "plaza/adl/plaza-premium-lounge-domestic-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BNE",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/bne/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/bne/plaza-premium-lounge-international-departures-2.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_BNE_Int_Dep_1_property_768.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_BNE_Int_Dep_2_property_768.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEL",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures, Terminal 2)",
+    "photos": [
+      "plaza/mel/plaza-premium-lounge-international-departures-terminal-2-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPL_MEL_Int_Dep_1_property_771.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SYD",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Departures)",
+    "photos": [
+      "plaza/syd/plaza-premium-lounge-international-departures-1.jpg",
+      "plaza/syd/plaza-premium-lounge-international-departures-2.jpg",
+      "plaza/syd/plaza-premium-lounge-international-departures-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl_syd_t1d_030320_1.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl_syd_t1d_030320_2.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ppl_syd_t1d_030320_3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SYD",
+    "provider": "Plaza Premium",
+    "name": "Plaza Premium Lounge (International Arrivals)",
+    "photos": [
+      "plaza/syd/plaza-premium-lounge-international-arrivals-1.jpg",
+      "plaza/syd/plaza-premium-lounge-international-arrivals-2.jpg",
+      "plaza/syd/plaza-premium-lounge-international-arrivals-3.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLA_SYD_gallery1_1600_500.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLA_SYD_gallery2_1600_500.jpg?ext=.jpg",
+      "https://img.plazapremiumlounge.com/static_images/prop_images/PPLA-Shower-1600_800.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CHC",
+    "provider": "Plaza Premium",
+    "name": "Manaia Lounge in partnership with Plaza Premium Lounge",
+    "photos": [
+      "plaza/chc/manaia-lounge-in-partnership-with-plaza-premium-lounge-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/CGK_IntDep_T3_1600x800_Web3.jpg?ext=.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ZQN",
+    "provider": "Plaza Premium",
+    "name": "Manaia Lounge in partnership with Plaza Premium Lounge (Airside)",
+    "photos": [
+      "plaza/zqn/manaia-lounge-in-partnership-with-plaza-premium-lounge-airside-1.jpg"
+    ],
+    "sources": [
+      "https://img.plazapremiumlounge.com/static_images/prop_images/ZQNLounge_1903x500.jpg"
+    ],
+    "dropped": []
+  }
+]
