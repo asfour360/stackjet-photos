@@ -1,0 +1,669 @@
+[
+  {
+    "airport": "AMS",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — AMS",
+    "photos": [
+      "amex/ams/the-centurion-lounge-ams-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/02_AMEX_Schiphol_AMEX_Schiphol_f2b9748bf5.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ARN",
+    "provider": "American Express",
+    "name": "American Express Lounge by Pontus Frithiof — ARN",
+    "photos": [
+      "amex/arn/american-express-lounge-by-pontus-frithiof-arn-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Vertical_fda9c9ba99.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ATL",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — ATL",
+    "photos": [
+      "amex/atl/the-centurion-lounge-atl-1.jpg",
+      "amex/atl/the-centurion-lounge-atl-2.jpg",
+      "amex/atl/the-centurion-lounge-atl-3.jpg",
+      "amex/atl/the-centurion-lounge-atl-4.jpg",
+      "amex/atl/the-centurion-lounge-atl-5.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Lounge_ATL_Architecture_Wellness_0085_V4_1_a2f808f8e6.jpg?updated_at=2024-02-15T21:04:19.547Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/NEW_SLIDESHOW_Centurion_Lounge_ATL_Architecture_Airside_Terrace_0725_B_V3_be7077c7fd.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Lounge_ATL_Lifestyle_Reception_0947_B_V4_cb7d0ecc3f.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Lounge_ATL_Architecture_Whiskey_Bar_0710_C_V1_8fb8347815.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Gray1_cde955f1ce.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BOM",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — BOM (Temporarily Closed)",
+    "photos": [
+      "amex/bom/the-centurion-lounge-bom-temporarily-closed-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/BOM_68067fb6b9.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BOS",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — BOS (Coming Soon)",
+    "photos": [
+      "amex/arn/american-express-lounge-by-pontus-frithiof-arn-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Vertical_fda9c9ba99.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLT",
+    "provider": "American Express",
+    "name": "Sidecar by The Centurion Lounge — CLT (Coming Soon)",
+    "photos": [
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-1.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-2.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-3.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-4.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Member_Services_225e4b8137.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Main_Lounge_4537e62eb6.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Food_Beverage_Bar_976b34dcf4.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_f2b4471ddf.jpg?updated_at=2022-10-16T13:36:02.833Z"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLT",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — CLT",
+    "photos": [
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-1.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-2.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-3.jpg",
+      "amex/clt/sidecar-by-the-centurion-lounge-clt-coming-soon-4.jpg",
+      "amex/clt/the-centurion-lounge-clt-1.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Member_Services_225e4b8137.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Main_Lounge_4537e62eb6.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/CLT_Food_Beverage_Bar_976b34dcf4.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_f2b4471ddf.jpg?updated_at=2022-10-16T13:36:02.833Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Monteverde1_4a9ed43282.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DCA",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — DCA",
+    "photos": [
+      "amex/dca/the-centurion-lounge-dca-1.jpg",
+      "amex/dca/the-centurion-lounge-dca-2.jpg",
+      "amex/dca/the-centurion-lounge-dca-3.jpg",
+      "amex/dca/the-centurion-lounge-dca-4.jpg",
+      "amex/dca/the-centurion-lounge-dca-5.jpg",
+      "amex/dca/the-centurion-lounge-dca-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2024_07_09_AMEX_Read_Mc_Kendree_0032_V1_defeaba91a.jpg?updated_at=2024-07-16T15:37:08.999Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2024_07_09_AMEX_Read_Mc_Kendree_0140_V1_51826cc66f.jpg?updated_at=2024-07-16T15:37:55.809Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2024_07_09_AMEX_Read_Mc_Kendree_0275_copy2_05d2650572.jpg?updated_at=2024-07-24T14:34:32.702Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2024_07_09_AMEX_Read_Mc_Kendree_0109_V1_70cc1c4315.jpg?updated_at=2024-07-16T15:37:56.141Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Monteverde2_e3475f4222.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail1_033342f058.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DEL",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — DEL",
+    "photos": [
+      "amex/del/the-centurion-lounge-del-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/DEL_New_56f8f8ef49.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DEN",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — DEN",
+    "photos": [
+      "amex/den/the-centurion-lounge-den-1.jpg",
+      "amex/den/the-centurion-lounge-den-2.jpg",
+      "amex/den/the-centurion-lounge-den-3.jpg",
+      "amex/den/the-centurion-lounge-den-4.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/DEN_Concourse_Main_Entrance_1200x540_1st_Image_8a0caa2009.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/DEN_Live_Cooking_LR_Edited_1200x540_cb57347bdd.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/DEN_Workspace_Media_Wall_f086825dba.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/DEN_Member_Services_Desk_2ce42a26c7.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — DFW",
+    "photos": [
+      "amex/dfw/the-centurion-lounge-dfw-1.jpg",
+      "amex/dfw/the-centurion-lounge-dfw-2.jpg",
+      "amex/dfw/the-centurion-lounge-dfw-3.jpg",
+      "amex/dfw/the-centurion-lounge-dfw-4.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0000_Reception_b372e3f7a3.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0002_Main_Lounge_9ad06b49b7.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0001_Bar_b51542e44b.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Zahav1_8861f675f7.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": [
+      {
+        "url": "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Cropped_0002_Main_Lounge_9ad06b49b7.jpg?updated_at=2022-10-16T13:34:42.782Z",
+        "reason": "same image as an earlier photo of this lounge (identical bytes)"
+      }
+    ]
+  },
+  {
+    "airport": "EWR",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — EWR (Coming Soon)",
+    "photos": [
+      "amex/ewr/the-centurion-lounge-ewr-coming-soon-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Final_EWR_Terrace_Bar_copy_d6d7bc66fe.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "EZE",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — EZE",
+    "photos": [
+      "amex/eze/the-centurion-lounge-eze-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/EZE_21357215e6.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HKG",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — HKG",
+    "photos": [
+      "amex/hkg/the-centurion-lounge-hkg-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Centurion_Dining_a8eae9108b.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HND",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — HND",
+    "photos": [
+      "amex/hnd/the-centurion-lounge-hnd-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/R9_A9583_ef79116b75.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "IAH",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — IAH",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/vxsvx2ukwak85slrxqpv.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/lvt7e8gbfj5fvbguvedj.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/mv8ns3pgi4byt59ewvdq.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/kmwv6aldl2ar49hleozf.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/mhmd71lek2lctpoqo9ew.jpg",
+        "reason": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "airport": "JFK",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — JFK",
+    "photos": [
+      "amex/jfk/the-centurion-lounge-jfk-1.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-2.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-3.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-4.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-5.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-6.jpg",
+      "amex/dca/the-centurion-lounge-dca-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/JFK_Carousel_1_4f5fc58be3.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/JFK_Carousel_2_646941f271.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_01_22_AMEX_Read_Mc_Kendree_0041_C_V1_3817567993.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/JFK_Carousel_3_aac2c93dec.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_01_22_AMEX_Read_Mc_Kendree_0158_B_V1_64b21e4797.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Tatiana2_db8beeb050.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail1_033342f058.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAS",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LAS",
+    "photos": [
+      "amex/las/the-centurion-lounge-las-1.jpg",
+      "amex/las/the-centurion-lounge-las-2.jpg",
+      "amex/las/the-centurion-lounge-las-3.jpg",
+      "amex/las/the-centurion-lounge-las-4.jpg",
+      "amex/las/the-centurion-lounge-las-5.jpg",
+      "amex/las/the-centurion-lounge-las-6.jpg",
+      "amex/las/the-centurion-lounge-las-7.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0036_V1_copy_16aa796354.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0145_V2_copy_9cf867231f.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0178_V2_copy_91de93db66.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0073_V1_copy_5182ffd962.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0073_V1_bc13f62e95.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0178_V2_0b613c1480.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0217_V1_50f55180da.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAS",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LAS-Sidecar",
+    "photos": [
+      "amex/las/the-centurion-lounge-las-1.jpg",
+      "amex/las/the-centurion-lounge-las-2.jpg",
+      "amex/las/the-centurion-lounge-las-3.jpg",
+      "amex/las/the-centurion-lounge-las-4.jpg",
+      "amex/las/the-centurion-lounge-las-5.jpg",
+      "amex/las/the-centurion-lounge-las-6.jpg",
+      "amex/las/the-centurion-lounge-las-7.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0036_V1_copy_16aa796354.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0145_V2_copy_9cf867231f.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0178_V2_copy_91de93db66.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0073_V1_copy_5182ffd962.jpeg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0073_V1_bc13f62e95.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0178_V2_0b613c1480.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2026_02_19_AMEX_Read_Mc_Kendree_0217_V1_50f55180da.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LAX",
+    "photos": [
+      "amex/lax/the-centurion-lounge-lax-1.jpg",
+      "amex/lax/the-centurion-lounge-lax-2.jpg",
+      "amex/lax/the-centurion-lounge-lax-3.jpg",
+      "amex/lax/the-centurion-lounge-lax-4.jpg",
+      "amex/lax/the-centurion-lounge-lax-5.jpg",
+      "amex/dca/the-centurion-lounge-dca-5.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LAX_hero2_06d4a279d3.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LAX_Cafe_d0ca45aeaa.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LAX_Moonrise_11b727d018.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LAX_Main_Lounge_Second_Bar_8b98e5c02c.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LAX_Sunrise_0c9e3706c9.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Monteverde2_1621fddbce.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGA",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LGA",
+    "photos": [
+      "amex/lga/the-centurion-lounge-lga-1.jpg",
+      "amex/lga/the-centurion-lounge-lga-2.jpg",
+      "amex/lga/the-centurion-lounge-lga-3.jpg",
+      "amex/lga/the-centurion-lounge-lga-4.jpg",
+      "amex/lga/the-centurion-lounge-lga-5.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LGA_2_Main_Entry_b9099fddc8.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LGA_2_Bob_Lounge_1200x540_a3d94bc0ac.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/LGA_2_Bar_8916fe1f3f.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_4d8af678c2.jpg?updated_at=2022-10-16T13:38:26.068Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Tatiana1_2_421b16fea1.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LHR",
+    "photos": [
+      "amex/lhr/the-centurion-lounge-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/241218_AMEX_RM_SH_08_081_V1_Edit_9ee93395cc.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — LHR Terminal 5 (Coming Soon)",
+    "photos": [
+      "amex/lhr/the-centurion-lounge-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/241218_AMEX_RM_SH_08_081_V1_Edit_9ee93395cc.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEL",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MEL",
+    "photos": [
+      "amex/mel/the-centurion-lounge-mel-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MEL_2_8519244d73.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MEX Terminal 1 International",
+    "photos": [
+      "amex/mex/the-centurion-lounge-mex-terminal-1-international-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MEX_a4cf5d0dab.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MIA",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MIA",
+    "photos": [
+      "amex/mia/the-centurion-lounge-mia-1.jpg",
+      "amex/mia/the-centurion-lounge-mia-2.jpg",
+      "amex/mia/the-centurion-lounge-mia-3.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MIA_Member_Services_Counter_9241e155c1.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MIA_Expansion_Food_Beverage_With_Bar_05781a09ef.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MIA_Expansion_Lounge_8f4c7c3ed5.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MTY",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MTY Terminal A",
+    "photos": [
+      "amex/mty/the-centurion-lounge-mty-terminal-a-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MTY_2_8a6c62c204.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — PHL (Temporarily Closed)",
+    "photos": [
+      "amex/phl/the-centurion-lounge-phl-temporarily-closed-1.jpg",
+      "amex/phl/the-centurion-lounge-phl-temporarily-closed-2.jpg",
+      "amex/phl/the-centurion-lounge-phl-temporarily-closed-3.jpg",
+      "amex/phl/the-centurion-lounge-phl-temporarily-closed-4.jpg",
+      "amex/phl/the-centurion-lounge-phl-temporarily-closed-5.jpg",
+      "amex/dfw/the-centurion-lounge-dfw-4.jpg",
+      "amex/dca/the-centurion-lounge-dca-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHL_Exterior_Entry_151a0012fc.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHL_Interior_Entrance_70691c1125.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHL_Food_Beverage_Axial_View_d3e85a359c.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHL_Reception_Main_CROP_33dbd2f637.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/enjoy_a624d2f163.jpg?updated_at=2022-10-16T13:40:43.246Z",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Zahav1_d2f091b9d9.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail1_033342f058.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — PHX",
+    "photos": [
+      "amex/phx/the-centurion-lounge-phx-1.jpg",
+      "amex/phx/the-centurion-lounge-phx-2.jpg",
+      "amex/phx/the-centurion-lounge-phx-3.jpg",
+      "amex/phx/the-centurion-lounge-phx-4.jpg",
+      "amex/phx/the-centurion-lounge-phx-5.jpg",
+      "amex/jfk/the-centurion-lounge-jfk-6.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHX_Member_Service_7f811686b2.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHX_Axial_Bar_86eea739d0.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHX_Workarea_92b00c3a7e.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHX_Media_Wall_3292ed9cab.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/PHX_Lounge_Seating_Area_Detail_2018f92ead.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Tatiana2_5b7ac8ac22.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SEA",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — SEA",
+    "photos": [
+      "amex/sea/the-centurion-lounge-sea-1.jpg",
+      "amex/sea/the-centurion-lounge-sea-2.jpg",
+      "amex/sea/the-centurion-lounge-sea-3.jpg",
+      "amex/sea/the-centurion-lounge-sea-4.jpg",
+      "amex/sea/the-centurion-lounge-sea-5.jpg",
+      "amex/clt/the-centurion-lounge-clt-1.jpg",
+      "amex/atl/the-centurion-lounge-atl-6.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SEA_2_Bar_Seating_Area_with_People_1_129b61aa06.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SEA_2_F_and_B_Seattle_Musicians_Art_Wall_Lo_Res_1_9655a277bc_181cade764.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SEA_2_Wellness_Bar_8e7ccfae20.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SEA_2_Main_Lounge_Art_Feature_LR_PR_USE_ONLY_66b6e1393f.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SEA_2_Bar_Axial_9ce9bd5ff8.png",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Monteverde1_90c227ae3d.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail2_2_eb036ba65f.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SFO",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — SFO",
+    "photos": [],
+    "sources": [],
+    "dropped": [
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/1749597347579.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/1749597325865.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/1749597309317.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/1749597286223.jpg",
+        "reason": "HTTP 404"
+      },
+      {
+        "url": "https://www.aexp-static.com/loungebuddy/image/upload/c_fit%2Ch_2000%2Cw_2000/1749595611183.jpg",
+        "reason": "HTTP 404"
+      }
+    ]
+  },
+  {
+    "airport": "SLC",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — SLC",
+    "photos": [
+      "amex/slc/the-centurion-lounge-slc-1.jpg",
+      "amex/slc/the-centurion-lounge-slc-2.jpg",
+      "amex/slc/the-centurion-lounge-slc-3.jpg",
+      "amex/slc/the-centurion-lounge-slc-4.jpg",
+      "amex/slc/the-centurion-lounge-slc-5.jpg",
+      "amex/slc/the-centurion-lounge-slc-6.jpg",
+      "amex/slc/the-centurion-lounge-slc-7.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_10_23_AMEX_Read_Mc_Kendree_0050_V1_copy_0258e7ade3.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_10_23_AMEX_Read_Mc_Kendree_0460_V1_b8d08d6503.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_10_23_AMEX_Read_Mc_Kendree_0362_V1_copy_3bf157d2d5.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_10_23_AMEX_Read_Mc_Kendree_0088_V1_copy_2_46fe909640.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/2025_10_23_AMEX_Read_Mc_Kendree_0362_V1_a607640e4b.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Zahav1_Square_1_5624b0ae64.jpg",
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/Cocktail1_Square_2_ef331f3399.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SYD",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — SYD",
+    "photos": [
+      "amex/syd/the-centurion-lounge-syd-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/SYD_461e7e4a0e.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MEX Terminal 1 Domestic",
+    "photos": [
+      "amex/mex/the-centurion-lounge-mex-terminal-1-international-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MEX_a4cf5d0dab.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MEX Terminal 1",
+    "photos": [
+      "amex/mex/the-centurion-lounge-mex-terminal-1-international-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MEX_a4cf5d0dab.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MEX Terminal 2",
+    "photos": [
+      "amex/mex/the-centurion-lounge-mex-terminal-1-international-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MEX_a4cf5d0dab.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MTY",
+    "provider": "American Express",
+    "name": "The Centurion Lounge — MTY Terminal B",
+    "photos": [
+      "amex/mty/the-centurion-lounge-mty-terminal-a-1.jpg"
+    ],
+    "sources": [
+      "https://www.aexp-static.com/s3/loungmtir-e3-cms/MTY_2_8a6c62c204.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "GRU",
+    "provider": "American Express",
+    "name": "W Premium Lounge 5th Avenue — GRU",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "GRU",
+    "provider": "American Express",
+    "name": "W Premium Lounge The Pier — GRU",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "American Express",
+    "name": "Blue Roast by American Express — MEX Terminal 2",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  }
+]
