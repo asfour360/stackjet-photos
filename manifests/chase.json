@@ -1,0 +1,189 @@
+[
+  {
+    "airport": "BOS",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 BOS",
+    "photos": [
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-1.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-2.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-3.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-4.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-5.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-6.jpg",
+      "chase/bos/chase-sapphire-lounge-by-the-club-bos-7.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/bos-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/bos-photo-gallery-4.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/bos-photo-gallery-5.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/bos-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/bos-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/guide/experiences/boston-sapphire-lounge-hero.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/bos-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 DFW",
+    "photos": [
+      "chase/dfw/chase-sapphire-lounge-by-the-club-dfw-1.jpg",
+      "chase/dfw/chase-sapphire-lounge-by-the-club-dfw-2.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/experiences/dfw-lounge/dfw_sapphire_lounge_jpmc_brand_2607_3x2_web.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/dfw-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 JFK",
+    "photos": [
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-1.jpg",
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-2.jpg",
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-3.jpg",
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-4.jpg",
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-5.jpg",
+      "chase/jfk/chase-sapphire-lounge-by-the-club-jfk-6.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/jfk-photo-gallery-4.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/jfk-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/jfk-photo-gallery-5.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/jfk-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/jfk-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/jfk-hero_v2.jpeg"
+    ],
+    "dropped": [
+      {
+        "url": "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/joe-coffee.jpg",
+        "reason": "not a lounge photo (Joe Coffee brand logo on white)"
+      }
+    ]
+  },
+  {
+    "airport": "LAS",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 LAS",
+    "photos": [
+      "chase/las/chase-sapphire-lounge-by-the-club-las-1.jpg",
+      "chase/las/chase-sapphire-lounge-by-the-club-las-2.jpg",
+      "chase/las/chase-sapphire-lounge-by-the-club-las-3.jpg",
+      "chase/las/chase-sapphire-lounge-by-the-club-las-4.jpg",
+      "chase/las/chase-sapphire-lounge-by-the-club-las-5.jpg",
+      "chase/las/chase-sapphire-lounge-by-the-club-las-6.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/las-photo-gallery-3.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/las-photo-gallery-1.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/las-photo-gallery-4.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/las-photo-gallery-2.jpg",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/lounges/las-vegas/las_vegas_chase_sapphire_lounge_momofuku_FB_jpmc_content_christian_torres_2511_3x2_web.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/las-hero.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGA",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 LGA",
+    "photos": [
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-1.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-2.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-3.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-4.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-5.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-6.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-7.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-8.jpg",
+      "chase/lga/chase-sapphire-lounge-by-the-club-lga-9.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-6.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-4.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-5.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/lga-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/Medsker_TheCorners_323_frzlhu_1869x1424_800x450.png",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/guide/experiences/lga-sapphire-lounge.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/lga-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 PHL",
+    "photos": [
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-1.jpg",
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-2.jpg",
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-3.jpg",
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-4.jpg",
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-5.jpg",
+      "chase/phl/chase-sapphire-lounge-by-the-club-phl-6.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phl-photo-gallery-4.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phl-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phl-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phl-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/lounges/philadelphia/phil_sapphire_lounge_productivity_adrian_gaut_2502_16x9_web.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/phl-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHX",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 PHX",
+    "photos": [
+      "chase/phx/chase-sapphire-lounge-by-the-club-phx-1.jpg",
+      "chase/phx/chase-sapphire-lounge-by-the-club-phx-2.jpg",
+      "chase/phx/chase-sapphire-lounge-by-the-club-phx-3.jpg",
+      "chase/phx/chase-sapphire-lounge-by-the-club-phx-4.jpg",
+      "chase/phx/chase-sapphire-lounge-by-the-club-phx-5.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phx-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phx-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/phx-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/lounges/phoenix/phx_chase_sapphire_lounge_airstream_dining_jpmc_2411_16x9_web.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/phx-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SAN",
+    "provider": "Chase Sapphire Lounge",
+    "name": "Chase Sapphire Lounge by The Club \u2014 SAN",
+    "photos": [
+      "chase/san/chase-sapphire-lounge-by-the-club-san-1.jpg",
+      "chase/san/chase-sapphire-lounge-by-the-club-san-2.jpg",
+      "chase/san/chase-sapphire-lounge-by-the-club-san-3.jpg",
+      "chase/san/chase-sapphire-lounge-by-the-club-san-4.jpg",
+      "chase/san/chase-sapphire-lounge-by-the-club-san-5.jpg",
+      "chase/san/chase-sapphire-lounge-by-the-club-san-6.jpg"
+    ],
+    "sources": [
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/san-photo-gallery-1.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/san-photo-gallery-2.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/san-photo-gallery-3.png",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/photo-gallery/san-photo-gallery-4.png",
+      "https://www.chase.com/content/dam/unified-assets/photography/articles/travel/lounges/san-diego/san_diego_chase_sapphire_lounge_dining_area_jpmc_16x9_web.jpg",
+      "https://www.chase.com/content/dam/unified-assets/sapphire-cards/personal/lounges/san-hero.png"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "IAD",
+    "provider": "Chase Sapphire Lounge",
+    "name": "The Etihad Lounge \u2014 IAD",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  }
+]

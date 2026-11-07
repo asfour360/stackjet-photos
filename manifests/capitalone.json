@@ -1,0 +1,100 @@
+[
+ {
+  "airport": "DCA",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Landing — DCA",
+  "photos": [
+   "capitalone/dca/capital-one-landing-dca-1.jpg",
+   "capitalone/dca/capital-one-landing-dca-2.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt917f30c8ff9ae51e/6733823b20ed6cfeeba51cc5/lounge-card-5.jpg",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt1e1ef57ea1699f80/69a9b92e1b705259b075f456/DCA_hero-4_fixed.webp"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "DEN",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Lounge — DEN",
+  "photos": [
+   "capitalone/den/capital-one-lounge-den-1.jpg",
+   "capitalone/den/capital-one-lounge-den-2.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt9c1ba9f8d729b37e/66a152e12d1d6d0a64d61d88/lounge-card-2.jpg",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/bltb66c20a0f9592cf4/67f0400a101fb7284b754f00/DEN_hero.webp"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "DFW",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Lounge — DFW",
+  "photos": [
+   "capitalone/dfw/capital-one-lounge-dfw-1.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blte0c31127692b4fca/66a1529d9cd6fd469af24346/lounge-card-1.jpg"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "IAD",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Lounge — IAD",
+  "photos": [
+   "capitalone/iad/capital-one-lounge-iad-1.jpg",
+   "capitalone/iad/capital-one-lounge-iad-2.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt8507f8370a100be6/66a1533385d50507393fb414/lounge-card-3.jpg",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt886959e8346d9579/67f040177c35f293929988c7/IAD_hero-1.webp"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "JFK",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Lounge — JFK",
+  "photos": [
+   "capitalone/jfk/capital-one-lounge-jfk-1.jpg",
+   "capitalone/jfk/capital-one-lounge-jfk-2.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/bltda17faa883cc169a/68408420a1ab653c539b0b98/JFK-location-carousel.webp",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt5a965fec45360d9b/683e0d049822aef2a2f39c9b/JFK-Hero.webp"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "LAS",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Lounge — LAS",
+  "photos": [
+   "capitalone/las/capital-one-lounge-las-1.jpg",
+   "capitalone/las/capital-one-lounge-las-2.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/bltfc032e0ba87ad423/67a52e6987c84dc8f617b6d4/LAS_Carousel.jpg",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt36f2531e74f90eb9/67f03fda446cbd7e37bb1742/LAS_hero-3.webp"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "LGA",
+  "provider": "Capital One Lounges",
+  "name": "Capital One Landing — LGA",
+  "photos": [
+   "capitalone/lga/capital-one-landing-lga-1.jpg",
+   "capitalone/lga/capital-one-landing-lga-2.jpg",
+   "capitalone/lga/capital-one-landing-lga-3.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt961f13d297425c7e/69384ac2a7028f35ac294c2e/LGA_CarouselCard.webp",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/bltad48ae9babbfea5e/6984d08ffa10bc48f1207e00/LoungeNetwork_Hero_LGA_2880x1560.webp",
+   "https://images.contentstack.io/v3/assets/blt1788ad84f88b68a8/blt868cb32db73e6332/6984d6343e3d93279281d5e0/LoungeNetwork_Carousel_LGA_DesktopTablet_1088x1400.webp"
+  ],
+  "dropped": []
+ }
+]

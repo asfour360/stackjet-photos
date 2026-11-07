@@ -1,0 +1,698 @@
+[
+  {
+    "airport": "EZE",
+    "provider": "Admirals Club",
+    "name": "Admirals Club / Iberia VIP Lounge — EZE",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "GIG",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, South Pier — GIG",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "GRU",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 — GRU",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 — LHR",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LHR",
+    "provider": "Admirals Club",
+    "name": "International First Class Lounge — LHR",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CDG",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 2A — CDG",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse A (A19–A21) — PHX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse A (A7–A9) — PHX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse B — PHX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PIT",
+    "provider": "Admirals Club",
+    "name": "Admirals Club — PIT",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 8 Concourse C — JFK",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Admirals Club",
+    "name": "Soho Lounge — JFK",
+    "photos": [
+      "american/jfk/soho-lounge-jfk-1.jpg"
+    ],
+    "sources": [
+      "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-2-494.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Admirals Club",
+    "name": "Greenwich Lounge — JFK",
+    "photos": [
+      "american/jfk/greenwich-lounge-jfk-1.jpg"
+    ],
+    "sources": [
+      "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-greenwich.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "JFK",
+    "provider": "Admirals Club",
+    "name": "Chelsea Lounge — JFK",
+    "photos": [
+      "american/jfk/chelsea-lounge-jfk-1.jpg"
+    ],
+    "sources": [
+      "https://www.aa.com/content/images/travel-info/clubs/joint-premium-lounge-soho-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BNA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse C — BNA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "HNL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club / Sakura Lounge — HNL",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "AUS",
+    "provider": "Admirals Club",
+    "name": "Admirals Club — AUS",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "RDU",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 2 — RDU",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Regional Terminal — LAX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 4 — LAX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B — LAX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LAX",
+    "provider": "Admirals Club",
+    "name": "Flagship Lounge — LAX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MCO",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B — MCO",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "EWR",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal A — EWR",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DCA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 2 Concourse C — DCA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DCA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 2 Concourse D — DCA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DCA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 2 Concourse E — DCA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "TPA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club — TPA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SNA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club — SNA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ATL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club — ATL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "BOS",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B — BOS",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLT",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse B — CLT",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLT",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse D — CLT",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "CLT",
+    "provider": "Admirals Club",
+    "name": "Provisions by Admirals Club, Concourse A — CLT",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "IAH",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal A — IAH",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DEN",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse C — DEN",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MIA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse D Gate D15 — MIA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MIA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse D Gate D30 — MIA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MIA",
+    "provider": "Admirals Club",
+    "name": "Flagship Lounge — MIA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "LGA",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B — LGA",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ORD",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 Concourse G — ORD",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ORD",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 Concourse H/K — ORD",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ORD",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 Concourse L — ORD",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "ORD",
+    "provider": "Admirals Club",
+    "name": "Flagship Lounge — ORD",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "YYZ",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 3 — YYZ",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal C — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal A — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal D — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal E — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Flagship Lounge — DFW",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "SFO",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 1 — SFO",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal A — PHL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal B/C — PHL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal F — PHL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "PHL",
+    "provider": "Admirals Club",
+    "name": "Flagship Lounge — PHL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "MEX",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Terminal 1 Concourse H — MEX",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "STL",
+    "provider": "Admirals Club",
+    "name": "Admirals Club, Concourse C — STL",
+    "photos": [
+      "american/lhr/admirals-club-terminal-3-lhr-1.jpg"
+    ],
+    "sources": [
+      "https://s202.q4cdn.com/986123435/files/images/thumbs/260417-Boston-AC-1.jpg"
+    ],
+    "dropped": []
+  },
+  {
+    "airport": "DFW",
+    "provider": "Admirals Club",
+    "name": "Flagship First Dining — DFW",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "MIA",
+    "provider": "Admirals Club",
+    "name": "Flagship First Dining — MIA",
+    "photos": [],
+    "sources": [],
+    "dropped": []
+  }
+]

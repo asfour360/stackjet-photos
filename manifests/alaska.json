@@ -1,0 +1,128 @@
+[
+ {
+  "airport": "PDX",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — PDX",
+  "photos": [
+   "alaska/pdx/alaska-lounge-pdx-1.jpg",
+   "alaska/pdx/alaska-lounge-pdx-2.jpg",
+   "alaska/pdx/alaska-lounge-pdx-3.jpg",
+   "alaska/pdx/alaska-lounge-pdx-4.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2026/10/AS-Lounge-PDX-Glamour-Shot-e1793303782590.jpeg",
+   "https://news.alaskaair.com/wp-content/uploads/2026/06/PDX_ALASKA_LOUNGERS-e1780353301802.jpeg?w=1600",
+   "https://news.alaskaair.com/wp-content/uploads/2026/05/PDX_ALASKA_BUFFET-e1780353284351.jpeg?w=1600",
+   "https://news.alaskaair.com/wp-content/uploads/2026/05/PDX_ALASKA_BAR-e1780353238453.jpeg?w=1600"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "SFO",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — SFO",
+  "photos": [
+   "alaska/sfo/alaska-lounge-sfo-1.jpg",
+   "alaska/sfo/alaska-lounge-sfo-2.jpg",
+   "alaska/sfo/alaska-lounge-sfo-3.jpg",
+   "alaska/sfo/alaska-lounge-sfo-4.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_172_113a8c.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_019_5e7c0f.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_080_69c5a5.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2024/07/072224_sfo_lounge_069_66f735.jpg"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "ANC",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — ANC",
+  "photos": [
+   "alaska/anc/alaska-lounge-anc-1.jpg",
+   "alaska/anc/alaska-lounge-anc-2.jpg",
+   "alaska/anc/alaska-lounge-anc-3.jpg",
+   "alaska/anc/alaska-lounge-anc-4.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge-3.jpeg",
+   "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_03.jpeg?w=1600",
+   "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_05.jpeg?w=1600",
+   "https://news.alaskaair.com/wp-content/uploads/2025/02/ANC-Lounge_04.jpeg?w=1600"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "LAX",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — LAX",
+  "photos": [
+   "alaska/lax/alaska-lounge-lax-1.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2026/10/AS-Lounge-LAX-Art.jpg"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "HNL",
+  "provider": "Alaska Lounge",
+  "name": "The Plumeria Lounge — HNL",
+  "photos": [
+   "alaska/hnl/the-plumeria-lounge-hnl-1.jpg",
+   "alaska/hnl/the-plumeria-lounge-hnl-2.jpg",
+   "alaska/hnl/the-plumeria-lounge-hnl-3.jpg"
+  ],
+  "sources": [
+   "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blt492372019c971a7f/69326acd820f3f64e94d8e44/PLrelaxbeforeflight.jpg",
+   "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/blte6731247e6fe4a09/693770f1f8653acd44b16a50/PLhouserules.jpg",
+   "https://images.contentstack.io/v3/assets/blt2cefe12c88e9dd91/bltb3b52116c7169c94/69326b160735e1756cbd9340/PLlocation.jpg"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "SEA",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — SEA C Concourse",
+  "photos": [],
+  "sources": [],
+  "dropped": []
+ },
+ {
+  "airport": "SEA",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — SEA D Concourse",
+  "photos": [
+   "alaska/sea/alaska-lounge-sea-d-concourse-1.jpg",
+   "alaska/sea/alaska-lounge-sea-d-concourse-2.jpg",
+   "alaska/sea/alaska-lounge-sea-d-concourse-3.jpg",
+   "alaska/sea/alaska-lounge-sea-d-concourse-4.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_022.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_017.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_040223_SEA-D-Lounge-Reopening1091.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2023/06/LNG_061923_SEA-D-Lounge-Reopening_018.jpg"
+  ],
+  "dropped": []
+ },
+ {
+  "airport": "SEA",
+  "provider": "Alaska Lounge",
+  "name": "Alaska Lounge — SEA N Concourse",
+  "photos": [
+   "alaska/sea/alaska-lounge-sea-n-concourse-1.jpg",
+   "alaska/sea/alaska-lounge-sea-n-concourse-2.jpg",
+   "alaska/sea/alaska-lounge-sea-n-concourse-3.jpg",
+   "alaska/sea/alaska-lounge-sea-n-concourse-4.jpg"
+  ],
+  "sources": [
+   "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_061-web.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_045-web.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_005-web.jpg",
+   "https://news.alaskaair.com/wp-content/uploads/2019/07/190708_NSAT_lounge_080-web.jpg"
+  ],
+  "dropped": []
+ }
+]
