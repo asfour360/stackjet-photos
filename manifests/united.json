@@ -124,12 +124,18 @@
     "photos": [
       "united/ewr/united-polaris-lounge-ewr-1.jpg",
       "united/ewr/united-polaris-lounge-ewr-2.jpg",
-      "united/ewr/united-polaris-lounge-ewr-3.jpg"
+      "united/ewr/united-polaris-lounge-ewr-3.jpg",
+      "united/ewr/united-polaris-lounge-ewr-4.jpg",
+      "united/ewr/united-polaris-lounge-ewr-5.jpg",
+      "united/ewr/united-polaris-lounge-ewr-6.jpg"
     ],
     "sources": [
       "https://mma.prnewswire.com/media/698925/United_Polaris_lounge_seating_area_at_EWR.jpg?p=original",
       "https://mma.prnewswire.com/media/698924/United_Polaris_lounge_Dining_Room_at_EWR.jpg?p=original",
-      "https://mma.prnewswire.com/media/698922/United_Polaris_lounge_at_EWR.jpg?p=original"
+      "https://mma.prnewswire.com/media/698922/United_Polaris_lounge_at_EWR.jpg?p=original",
+      "https://united.mediaroom.com/download/United+Polaris+lounge+bar+at+EWR.jpg",
+      "https://united.mediaroom.com/download/United+Polaris+lounge+buffet+at+EWR.jpg",
+      "https://united.mediaroom.com/download/United+Polaris+lounge+view+at+EWR.jpg"
     ],
     "dropped": []
   },
@@ -187,6 +193,18 @@
     "name": "United Club — IAD D8",
     "photos": [],
     "sources": [],
+    "dropped": []
+  },
+  {
+    "airport": "IAD",
+    "provider": "United Club",
+    "name": "United Club — Concourse E",
+    "photos": [
+      "united/iad/united-club-concourse-e-1.jpg"
+    ],
+    "sources": [
+      "https://mma.prnewswire.com/media/MS2030271/Untied-Club.jpg?p=original"
+    ],
     "dropped": []
   },
   {
