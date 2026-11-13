@@ -17,3 +17,5 @@ All are from Wikimedia Commons under CC0 or public domain, with licence checked 
 | NL | Netherlands | Windmills at Zaanse Schans, Zaanstad | DimiTalen | CC0 | https://commons.wikimedia.org/wiki/File:Windmills_at_Zaanse_Schans,_Zaanstad,_2022.jpg | 2026-11-13 | cropped and resized |
 | JP | Japan | Mount Fuji at sunset across Lake Kawaguchi | Romain Guy from San Francisco, USA | CC0 | https://commons.wikimedia.org/wiki/File:Mount_Fuji_at_sunset,_March_2025.jpg | 2026-11-13 | cropped and resized |
 | AE | United Arab Emirates | Dubai skyline at sunset, seen from Festival City | Lehtm25 | Public domain | https://commons.wikimedia.org/wiki/File:Dubai_skyline_in_the_evening.jpg | 2026-11-13 | cropped and resized |
+
+Each country also has a 4:5 tall crop (<iso2>-tall.jpg) of the same source image, cropped and resized. (MX and IT tall crops are still pending.)
